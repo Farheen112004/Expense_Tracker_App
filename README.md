@@ -1,7 +1,23 @@
-# expense_tracker_app
 
-The Expense Tracker App is a simple and intuitive tool for managing personal finances on the go. With this app, users can easily track their daily expenses, categorize them by type, and set specific dates to keep a clear record of spending. The app allows users to add and delete entries as needed, ensuring an up-to-date overview of financial activity. The sleek design adapts to dark mode for ease of use in any lighting condition, making it perfect for those who want to keep their budgeting organized and accessible anytime, anywhere.
-## Getting Started
+# Expense Tracker App
+
+Expense Tracker App simplifies personal finance by allowing users to add, categorize, and delete expenses with date tracking. With dark mode for easy viewing, it’s perfect for tracking spending, setting budgets, and building healthier financial habits.
+
+
+
+## To Run the Program
+
+*Download all the requirements*
+
+1.Flutter: Launch Emulator
+
+2.ios simulator
+
+In terminal run this command to run your program
+
+```bash
+  flutter run expense_tracker_app
+```
 
 This project is a starting point for a Flutter application.
 
